@@ -3,6 +3,7 @@
 
 <p>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTExemJmaHBmcGtidnlmcjd3cms4dnoyYW00M3FyeDhzbHg0bDEwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif" alt="chill gif" align="right" width="30%"/>
+  
 - 🔭 I’m currently working on **loiseau**
 </p>
 
