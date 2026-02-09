@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **loiseau**
 </p>
 
- 🌱 I’m currently learning **MySQL**
+ 🌱 I’m currently learning **Docker**
 
 
 - 📫 How to reach me **soler.luna@outlook.fr**
